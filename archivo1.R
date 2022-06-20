@@ -1,5 +1,6 @@
-# funcion suma Realizado por conflicto 2
-
-suma <- function(a , b, c, d){
-  return(a + b + c + d)
+# funcion que suma tres parámetros
+# RAMA 1
+suma <- function(d , b, c){
+  e <- b+c
+  return(d + e)
   }
